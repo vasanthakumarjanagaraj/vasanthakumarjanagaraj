@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Developing
 - 🌱 I’m currently learning Full Stack In Programming
 - 💞️ I’m looking to collaborate with Skilled Developers
-- ✨ Intern as a Software Developer in Kodnest Banglore 
+- ✨ I'm currently Intern as a Software Developer in Kodnest Banglore 
   
 
 <!---
