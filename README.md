@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vasanthakumarjanagaraj
 - 👀 I’m interested in Software Developing
-- 🌱 I’m currently learning Full Stack In Programming
+- 🌱 I'm certified Java Full Stack Developer
 - 💞️ I’m looking to collaborate with Skilled Developers
-- ✨ I'm currently Intern as a Software Developer in Kodnest Banglore 
+- ✨ I'm currently looking for a Job.
   
 
 <!---
